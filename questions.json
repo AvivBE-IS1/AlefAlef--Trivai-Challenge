@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "qid": 1,
+      "question": "How many lines in \"The Zen of Python\"?",
+      "answer": ["19", "Nineteen"],
+      "hint": "import this"
+    },
+    {
+      "qid": 2,
+      "question": "How can you fly in Python (or at least see the comics)?",
+      "answer": ["import antigravity"],
+      "hint": "https://xkcd.com/353/"
+    },
+    {
+      "qid": 3,
+      "question": "How many chapters in next.py course (excluding wellcome, introduction & feedback)?",
+      "answer": ["6", "six"],
+      "hint": "Look at next.py syllabus tab"
+    },
+    {
+      "qid": 4,
+      "question": "What can be your next python course after next.py?",
+      "answer": ["Network.py", "Network"],
+      "hint": "Check https://campus.gov.il/academic_institution/israel-national-cyber-directorate/"
+    },
+    {
+      "qid": 5,
+      "question": "Name one of Cyber Education Center's programs?",
+      "answer": ["Shift", "OnTop", "StarTech", "מגשימים", "ממריאות"],
+      "hint": "One word. Original English/Hebrew name from: https://cyber.org.il/programs/"
+    }
+  ]
+}
